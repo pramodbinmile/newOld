@@ -17,3 +17,4 @@ after te
 insert commit
 success
 inserted without error
+commit

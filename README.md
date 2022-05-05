@@ -11,3 +11,4 @@ hello
 demo 2
 final
 next test
+error
